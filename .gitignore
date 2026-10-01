@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+config/client_secret.json
+config/token.json
+data/*.db
+logs/*.log
+output/shorts/
+assets/backgrounds/
+assets/music/
+assets/voices/

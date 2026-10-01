@@ -1,0 +1,16 @@
+openai
+google-genai
+ollama
+piper-tts
+faster-whisper
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+Pillow
+python-dotenv
+PyYAML
+requests
+
+tzdata
+rich
+praw
